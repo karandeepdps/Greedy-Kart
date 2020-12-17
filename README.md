@@ -1,18 +1,22 @@
-# AI Racing Karts
-
-### An ML-Agents Tutorial
+## Ablation study and 
 
 ![](./Thumbnail.jpg)
 
 
 
-ML-Agents Release 9 (Version 1.5.0 in Package Manager) with Unity 2019.4.14f
 
+
+ML-Agents Release 10 with Unity 2019.4.9
 
 
 ## Credits
+-- Many Thanks to Sebastian,Mix and Jam, Kenny ---
 
-- Thanks to Kenny (kenney.nl) for the sick 3D Models
-- Thanks to Mix and Jam for much of the driving logic and kart model. Check out his Youtube!
+
+
+
+
+
+
 
 
