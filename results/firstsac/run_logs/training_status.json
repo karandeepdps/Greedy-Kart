@@ -2,41 +2,41 @@
     "KartAgent": {
         "checkpoints": [
             {
-                "steps": 81088,
-                "file_path": "results/firstsac/KartAgent/KartAgent-81088.nn",
+                "steps": 5999540,
+                "file_path": "results/firstsac/KartAgent/KartAgent-5999540.nn",
+                "reward": -0.9993749673012644,
+                "creation_time": 1608231780.924795
+            },
+            {
+                "steps": 6499651,
+                "file_path": "results/firstsac/KartAgent/KartAgent-6499651.nn",
+                "reward": -0.8894066452980042,
+                "creation_time": 1608232560.0699048
+            },
+            {
+                "steps": 6999661,
+                "file_path": "results/firstsac/KartAgent/KartAgent-6999661.nn",
+                "reward": -0.833133338285344,
+                "creation_time": 1608233324.7502458
+            },
+            {
+                "steps": 7499880,
+                "file_path": "results/firstsac/KartAgent/KartAgent-7499880.nn",
+                "reward": -0.9443916380405426,
+                "creation_time": 1608234199.949297
+            },
+            {
+                "steps": 7810792,
+                "file_path": "results/firstsac/KartAgent/KartAgent-7810792.nn",
                 "reward": null,
-                "creation_time": 1608219319.333838
-            },
-            {
-                "steps": 499966,
-                "file_path": "results/firstsac/KartAgent/KartAgent-499966.nn",
-                "reward": -1.0452714306967599,
-                "creation_time": 1608220385.395958
-            },
-            {
-                "steps": 999563,
-                "file_path": "results/firstsac/KartAgent/KartAgent-999563.nn",
-                "reward": -0.948591074347496,
-                "creation_time": 1608221377.286782
-            },
-            {
-                "steps": 1499806,
-                "file_path": "results/firstsac/KartAgent/KartAgent-1499806.nn",
-                "reward": -0.9121285368289266,
-                "creation_time": 1608222384.578183
-            },
-            {
-                "steps": 1791307,
-                "file_path": "results/firstsac/KartAgent/KartAgent-1791307.nn",
-                "reward": null,
-                "creation_time": 1608222946.059577
+                "creation_time": 1608234766.240021
             }
         ],
         "final_checkpoint": {
-            "steps": 1791307,
+            "steps": 7810792,
             "file_path": "results/firstsac/KartAgent.nn",
             "reward": null,
-            "creation_time": 1608222946.059577
+            "creation_time": 1608234766.240021
         }
     },
     "metadata": {

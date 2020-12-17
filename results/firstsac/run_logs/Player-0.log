@@ -1,0 +1,82 @@
+Mono path[0] = '/Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Resources/Data/Managed'
+Mono config path = '/Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/MonoBleedingEdge/etc'
+PlayerConnection initialized from /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Resources/Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55288
+Multi-casting "[IP] 192.168.1.100 [Port] 55288 [Flags] 2 [Guid] 1374023503 [EditorId] 4042549319 [Version] 1048832 [Id] OSXPlayer(itskd) [Debug] 0 [PackageName] OSXPlayer [ProjectName] RacingDemo" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55288]
+PlayerConnection already initialized - listening to [0.0.0.0:55288]
+Initialize engine version: 2019.4.9f1 (50fe8a171dd9)
+[Subsystems] Discovering subsystems at path /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Resources/Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+2020-12-17 22:30:20.829 RacingDemo[1004:5914205] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
+2020-12-17 22:30:20.841 RacingDemo[1004:5914205] Metal devices available: 1
+2020-12-17 22:30:20.841 RacingDemo[1004:5914205] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
+2020-12-17 22:30:20.883 RacingDemo[1004:5914205] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6000
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.172 seconds
+UnloadTime: 2.533999 ms
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.dylib
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.bundle
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.dylib
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.bundle
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.dylib
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so.bundle
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libcoreclr.so
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.dylib
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so.bundle
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libdl.so
+WARNING: The communication API versions between Unity and python differ at the minor version level. Python API: 1.0.0, Unity API: 1.2.0 Python Library Version: 0.19.0 .
+This means that some features may not work unless you upgrade the package with the lower version.Please find the versions that work best together from our release page.
+https://github.com/Unity-Technologies/ml-agents/releases
+UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogWarningFormat(String, Object[])
+Unity.MLAgents.RpcCommunicator:CheckCommunicationVersionsAreCompatible(String, String, String) (at /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/Library/PackageCache/com.unity.ml-agents@1.5.0-preview/Runtime/Communicator/RpcCommunicator.cs:88)
+Unity.MLAgents.RpcCommunicator:Initialize(CommunicatorInitParameters) (at /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/Library/PackageCache/com.unity.ml-agents@1.5.0-preview/Runtime/Communicator/RpcCommunicator.cs:131)
+Unity.MLAgents.Academy:InitializeEnvironment() (at /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/Library/PackageCache/com.unity.ml-agents@1.5.0-preview/Runtime/Academy.cs:427)
+Unity.MLAgents.Academy:LazyInitialize() (at /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/Library/PackageCache/com.unity.ml-agents@1.5.0-preview/Runtime/Academy.cs:267)
+Unity.MLAgents.Academy:.ctor() (at /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/Library/PackageCache/com.unity.ml-agents@1.5.0-preview/Runtime/Academy.cs:237)
+Unity.MLAgents.<>c:<.cctor>b__82_0() (at /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/Library/PackageCache/com.unity.ml-agents@1.5.0-preview/Runtime/Academy.cs:105)
+System.Lazy`1:CreateValue()
+System.Lazy`1:LazyInitValue()
+System.Lazy`1:get_Value()
+Unity.MLAgents.Academy:get_Instance() (at /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/Library/PackageCache/com.unity.ml-agents@1.5.0-preview/Runtime/Academy.cs:120)
+Unity.MLAgents.Agent:LazyInitialize() (at /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/Library/PackageCache/com.unity.ml-agents@1.5.0-preview/Runtime/Agent.cs:410)
+Unity.MLAgents.Agent:OnEnable() (at /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/Library/PackageCache/com.unity.ml-agents@1.5.0-preview/Runtime/Agent.cs:324)
+ 
+(Filename: /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/Library/PackageCache/com.unity.ml-agents@1.5.0-preview/Runtime/Communicator/RpcCommunicator.cs Line: 88)
+
+Metal RecreateSurface[0x112538420]: surface size 84x84
+Metal RecreateSurface[0x112538420]: surface size 1440x900
+Metal RecreateSurface[0x112538420]: surface size 1440x900
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 700010903000 -> priority: 1 
+  Thread -> id: 700010a09000 -> priority: 1 
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.dylib
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.so
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.bundle
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/advapi32.dll
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dylib
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.so
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.bundle
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/advapi32
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.dylib
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.so
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll.bundle
+Fallback handler could not load library /Users/Karan/Documents/personal/rl/AI-KART-GREEDY-PATH/mac_app.app/Contents/Frameworks/MonoEmbedRuntime/osx/libadvapi32.dll
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1608234766613,"processId":1004,"allocatedMemory":631883,"memoryLabels":[{"Default":104},{"Permanent":24},{"NewDelete":624596},{"Thread":296},{"Manager":3968},{"GfxDevice":592},{"GfxThread":224},{"Physics":32},{"Serialization":40},{"String":291},{"DynamicArray":4},{"PoolAlloc":56},{"GI":296},{"VR":2016},{"Subsystems":-656}]}
